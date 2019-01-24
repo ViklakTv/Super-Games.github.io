@@ -1,6 +1,6 @@
 body {
 
-  font-family: "Arial", serif;
+  font-family: "Impact", serif;
 
 }
 h1 {
@@ -30,7 +30,7 @@ h3 {
   padding: 25px 55px;
   color: #6e2c2c;
   
-  border-radius: 50px;
+  border-radius: 10px;
   border: 1px solid #a64747;
   border-top: #ee6969;
   border-bottom:3px solid #a64747;
@@ -42,13 +42,13 @@ h3 {
   
 .buttonn a {
   text-decoration: none;
-  font-size: 20px;
+  font-size: 5px;
   font-family: monospace;
   background-color: #ff9090;
   padding: 25px 55px;
   color: #6e2c2c;
   
-  border-radius: 50px;
+  border-radius: 10px;
   border: 1px solid #a64747;
   border-top: #ee6969;
   border-bottom:3px solid #a64747;
@@ -60,13 +60,13 @@ h3 {
   
 .buttonnn a {
   text-decoration: none;
-  font-size: 20px;
+  font-size: 5px;
   font-family: monospace;
   background-color: #ff9090;
   padding: 25px 55px;
   color: #6e2c2c;
   
-  border-radius: 50px;
+  border-radius: 10px;
   border: 1px solid #a64747;
   border-top: #ee6969;
   border-bottom:3px solid #a64747;
@@ -78,13 +78,13 @@ h3 {
   
 .buttonnnn a {
   text-decoration: none;
-  font-size: 20px;
+  font-size: 5px;
   font-family: monospace;
   background-color: #ff9090;
   padding: 25px 55px;
   color: #6e2c2c;
   
-  border-radius: 50px;
+  border-radius: 10px;
   border: 1px solid #a64747;
   border-top: #ee6969;
   border-bottom:3px solid #a64747;
