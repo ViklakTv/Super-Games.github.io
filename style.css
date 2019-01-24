@@ -1,6 +1,6 @@
 body {
 
-  font-family: "Georgia", serif;
+  font-family: "Arial", serif;
 
 }
 h1 {
@@ -17,4 +17,7 @@ h3 {
 
   text-shadow: 2px 2px 0 #cccccc;
 
+}
+f{
+text-decoration: none;
 }
