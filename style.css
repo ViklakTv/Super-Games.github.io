@@ -18,7 +18,7 @@ h3 {
   text-shadow: 2px 2px 0 #cccccc;}
 
 .button{
-  margin: 15px;
+  margin: 10px;
 }
   
   
@@ -30,8 +30,8 @@ h3 {
   padding: 30px 30px;
   color: #6e2c2c;
   
-  border-radius: 45px;
-  border: 2px solid #a64747;
+  border-radius: 20px;
+  border: 1px solid #a64747;
   border-top: #ee6969;
-  border-bottom:3px solid #a64747;
+  border-bottom:1px solid #a64747;
 }
