@@ -18,13 +18,13 @@ h3 {
   text-shadow: 2px 2px 0 #cccccc;}
 
 .button{
-  margin: 20px;
+  margin: 5px;
 }
   
   
 .button a {
   text-decoration: none;
-  font-size: 20px;
+  font-size: 5px;
   font-family: monospace;
   background-color: #ff9090;
   padding: 25px 55px;
@@ -36,7 +36,7 @@ h3 {
   border-bottom:3px solid #a64747;
 }
 .buttonn{
-  margin: 20px;
+  margin: 5px;
 }
   
   
@@ -54,7 +54,7 @@ h3 {
   border-bottom:3px solid #a64747;
 }
 .buttonnn{
-  margin: 20px;
+  margin: 5px;
 }
   
   
@@ -72,7 +72,7 @@ h3 {
   border-bottom:3px solid #a64747;
 }
 .buttonnnn{
-  margin: 20px;
+  margin: 5px;
 }
   
   
