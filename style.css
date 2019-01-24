@@ -24,13 +24,13 @@ h3 {
   
 .button a {
   text-decoration: none;
-  font-size: 10px;
+  font-size: 50px;
   font-family: monospace;
   background-color: #ff9090;
-  padding: 5px 25px;
+  padding: 10px 50px;
   color: #6e2c2c;
   
-  border-radius: 30px;
+  border-radius: 50px;
   border: 1px solid #a64747;
   border-top: #ee6969;
   border-bottom:3px solid #a64747;
