@@ -16,6 +16,8 @@ p {
 h3 {
 
   text-shadow: 2px 2px 0 #cccccc;}
+a{
+  text-decoration: none}
 
 .button{
   margin: 100px;
