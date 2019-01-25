@@ -5,7 +5,7 @@ body {
 }
 h1 {
 
-  text-shadow: 4px 4px 0 #cccccc;
+  text-shadow: 1px 1px 0 #cccccc;
 
 }
 p {
@@ -30,6 +30,24 @@ a{
   font-family: monospace;
   background-color: #ff9090;
   padding: 10px 50px;
+  color: #6e2c2c;
+  
+  border-radius: 100px;
+  border: 1px solid #a64747;
+  border-top: #ee6969;
+  border-bottom:3px solid #a64747;
+}
+.buttonn{
+  margin: 80px;
+}
+  
+  
+.buttonn a {
+  text-decoration: none;
+  font-size: 40px;
+  font-family: monospace;
+  background-color: #ff9090;
+  padding: 5px 25px;
   color: #6e2c2c;
   
   border-radius: 100px;
