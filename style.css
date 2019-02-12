@@ -28,14 +28,14 @@ a{
   
 .button a {
   text-decoration: none;
-  font-size: 30px;
+  font-size: 20px;
   font-family: monospase;
   background-color: red;
-  padding: 30px 50px;
-  font-size: 40;
+  padding: 20px 40px;
+  font-size: 30;
   color: black;
   border-radius: 100px;
-  border-bottom: 5px solid #800080;
+  border-bottom: 3px solid black;
   
   
 }
