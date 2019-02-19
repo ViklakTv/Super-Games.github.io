@@ -34,6 +34,13 @@ a{
   
   
 .button a {
+.button{
+  margin: 20px;
+}
+  
+  
+  
+.button a {
   text-decoration: none;
   font-size: 25px;
   font-family: monospase;
@@ -41,6 +48,8 @@ a{
   padding: 20px 40px;
   font-size: 25;
   color: black;
+  border-radius: 40px;
+  border-bottom: 3px solid black;
   
   
 }
